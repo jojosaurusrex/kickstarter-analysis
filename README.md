@@ -12,7 +12,7 @@ The purpose of this project was to familarize students to basic excel practices:
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
 From the figure above we can identify that theatre fundraisers that launched in May were much more successful than any other month.
 
 ### Analysis of Outcomes Based on Goals
