@@ -12,11 +12,11 @@ The purpose of this project was to familarize students to basic excel practices:
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Theater_Outcomes_vs_Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/98374315/155026313-a3707ff2-cdf4-403e-ae7b-eb056c781f56.png)
 From the figure above we can identify that theatre fundraisers that launched in May were much more successful than any other month.
 
 ### Analysis of Outcomes Based on Goals
-![Outcomes_vs_Goals]
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98374315/155026421-4cb9f3de-b7ad-4ca7-991e-607394e9df36.png)
 From the figure above we can recognize three points where the successful and failed lines intersect. 
 
 ### Challenges and Difficulties Encountered
